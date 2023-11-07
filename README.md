@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LudOhm
-- 👀 I’m interested in Programing, Thai and japanese culture
+- 👀 I’m interested in Programing, Thai and Japanese culture
 - 🌱 I’m currently learning Java, Python
 
 <!---
